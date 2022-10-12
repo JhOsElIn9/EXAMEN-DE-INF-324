@@ -1,0 +1,71 @@
+
+
+
+body{
+    background-color: rgb(148, 186, 241);
+}
+#cabecera{
+    background-color: rgb(48, 93, 160);
+    text-align: center;
+    width: 100%;
+    float: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+#titulo{
+    background-color: rgb(134, 68, 68);
+    text-align:center;
+    width: 100%;
+    float:right;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#mate{
+    background-color: rgb(99, 168, 102);
+    text-align:center;
+    width: 33.3%;
+    float: left;
+   
+
+}
+
+#biolog{
+    background-color: rgb(216, 155, 85);
+    text-align:center;
+    width: 33.3%;
+    float: left;
+   
+
+}
+#info{
+    background-color: rgb(56, 151, 131);
+    text-align:center;
+    width: 33.4%;
+    float: left;
+   
+
+}
+#cabecerabiologia{
+    background-color: rgb(216, 155, 85);
+    text-align: center;
+    width: 100%;
+    float: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+#cabeceramate{
+    background-color: rgb(99, 168, 102);
+    text-align: center;
+    width: 100%;
+    float: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+#cabecerainfo{
+    background-color: rgb(56, 151, 131);
+    text-align: center;
+    width: 100%;
+    float: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
